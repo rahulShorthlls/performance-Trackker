@@ -60,7 +60,7 @@ Ensure your PAT has at least **read access** to work items across organizations.
 ## 🏁 Running the Script
 
 ```bash
-python script_name.py
+python final.py
 ```
 
 Replace `script_name.py` with the actual filename. The summary will be saved as `done_ticket_summary.xlsx` in the current directory.
@@ -77,6 +77,5 @@ Replace `script_name.py` with the actual filename. The summary will be saved as 
 
 Rahul Kumar
 Intern at Shorthills AI
-GitHub: \[your-github-link-here]
 
 ```
