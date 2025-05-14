@@ -1,6 +1,4 @@
 
-
-````markdown
 # Azure DevOps Work Item Summary Tool
 
 This Python script retrieves and summarizes work items (tickets) from Azure DevOps for given users over a specified date range. It collects detailed ticket statistics across all organizations and projects the user has access to and exports the result to an Excel file.
